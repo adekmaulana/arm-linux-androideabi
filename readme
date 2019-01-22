@@ -1,0 +1,9 @@
+# 
+# .
+#
+
+AArch32 Prebuilt GCC 
+
+The prefix of TARGET can be alias using:
+`arm-linux-androideabi`
+so you don't have to write the whole `arm-unknown-linux-androideabi`.
